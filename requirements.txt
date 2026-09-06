@@ -1,3 +1,4 @@
+python-dotenv
 fastapi
 uvicorn
 supabase
@@ -5,4 +6,3 @@ argon2-cffi
 python-jose
 python-multipart
 websockets
-python-dotenv
